@@ -1,2 +1,2 @@
 ;; Generated package description from realgud-lldb.el  -*- no-byte-compile: t -*-
-(define-package "realgud-lldb" "1.0.2.0.20241118.210939" "Realgud front-end to lldb" '((load-relative "1.3.1") (realgud "1.5.0") (emacs "25")) :commit "deacd070e8ab8830f4d577fee37136ad89183d13" :authors '(("Rocky Bernstein" . "rocky@gnu.org")) :maintainer '("Rocky Bernstein" . "rocky@gnu.org") :url "http://github.com/realgud/realgud-lldb")
+(define-package "realgud-lldb" "1.0.2.0.20260105.115809" "Realgud front-end to lldb" '((load-relative "1.3.1") (realgud "1.5.0") (emacs "25")) :commit "2521026a8dc8f1b6ce491a580be21808f6f5f1df" :authors '(("Rocky Bernstein" . "rocky@gnu.org")) :maintainer '("Rocky Bernstein" . "rocky@gnu.org") :url "http://github.com/realgud/realgud-lldb")
